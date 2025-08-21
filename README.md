@@ -1,4 +1,5 @@
-![Banner](https://i.ibb.co/9XmrtGh/upscalemedia-transformed.png)
+![Md Al Amin Banner](https://media.licdn.com/dms/image/v2/D5616AQE2TPQUTnyuAw/profile-displaybackgroundimage-shrink_350_1400/B56ZjNQ9EvHQAw-/0/1755790431211?e=1758758400&v=beta&t=ZwJFGTC3QZrInZKBOZpIGz5W9ATGdZ6vfu8ame5l4xk)
+
 
 # Md AL AMIN
 ### Aspiring Full Stack Developer | Exploring Next.js, TypeScript & Advanced Node.js  
