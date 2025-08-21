@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me  
-👋 Hi, I’m **Md Alamin**, a passionate **Full Stack Developer** and a **Computer Science undergraduate**.  
+👋 Hi, I’m **Md Alamin**, a passionate **Full Stack Developer**.  
 I’m currently learning Web Development from **Programming Hero** and building real-world projects to sharpen my skills.  
 I love creating clean, scalable, and user-friendly web solutions while continuously improving myself in modern technologies like **React.js, Next.js, Node.js, and MongoDB**.  
 
