@@ -1,5 +1,4 @@
-![Md Al Amin Banner](https://github.com/mdalamin2002/mdalamin2002/blob/main/assets/banner.png)
-
+![Md Al Amin Banner](https://i.ibb.co/STD3rJc/Yellow-Black-Geometric-Personal-Branding-Linked-In-Banner.png)
 
 # Md AL AMMIN
 ### Aspiring Full Stack Developer | Exploring Next.js, TypeScript & Advanced Node.js  
