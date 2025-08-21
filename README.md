@@ -1,4 +1,4 @@
-![Md Al Amin Banner](https://i.ibb.co/STD3rJc/Yellow-Black-Geometric-Personal-Branding-Linked-In-Banner.png)
+![Banner](https://ibb.co.com/9XmrtGh/upscalemedia-transformed.png)
 
 # Md AL AMMIN
 ### Aspiring Full Stack Developer | Exploring Next.js, TypeScript & Advanced Node.js  
