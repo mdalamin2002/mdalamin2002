@@ -1,19 +1,21 @@
 ![Banner](https://i.ibb.co/gZjm8YvJ/upscalemedia-transformed.png)
 
 # Md Kausar Hossain Bidyut  
-### Aspiring Full Stack Developer | Exploring Next.js, TypeScript & Advanced Node.js | CSE Undergraduate 
+### Aspiring Full Stack Developer | Exploring Next.js, TypeScript & Advanced Node.js | CSE Undergraduate  
 
 ---
 
-## About Me  
-I’m a passionate full-stack developer and a Computer Science undergraduate, dedicated to crafting clean, efficient, and user-friendly web solutions. Currently, I’m diving deeper into React.js, Node.js, and other modern technologies to build scalable and impactful applications. I love learning new skills and continuously growing in the world of software development.
+## 👨‍💻 About Me  
+I’m a passionate full-stack developer and a Computer Science undergraduate, dedicated to crafting clean, efficient, and user-friendly web solutions.  
+Currently, I’m diving deeper into **React.js, Next.js, Node.js** and other modern technologies to build scalable and impactful applications.  
+I love learning new skills and continuously growing in the world of software development.  
 
 ---
 
 ## 🔥 Current Activities  
-- Learning advanced **React** & **Next.js** features  
-- Developing a tourism website project  
-- Exploring backend APIs with **Express.js** and **MongoDB**
+- 🚀 Learning advanced **React** & **Next.js** features  
+- 🌍 Developing a **tourism website project**  
+- ⚡ Exploring backend APIs with **Express.js** and **MongoDB**  
 
 ---
 
@@ -32,7 +34,7 @@ I’m a passionate full-stack developer and a Computer Science undergraduate, de
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-### Programming Language & Tools  
+### Programming Languages & Tools  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
@@ -41,10 +43,15 @@ I’m a passionate full-stack developer and a Computer Science undergraduate, de
 ## 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kausarhossainbidyut)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kausarhossainbidyut)  
-[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/khbidyut31)
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/khbidyut31)  
 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kausarhossainbidyut&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kausarhossainbidyut&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausarhossainbidyut&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kausarhossainbidyut&theme=radical)  
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kausarhossainbidyut&color=blue)
