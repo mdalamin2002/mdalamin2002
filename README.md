@@ -1,6 +1,6 @@
 ![Banner](https://ibb.co.com/9XmrtGh/upscalemedia-transformed.png)
 
-# Md AL AMMIN
+# Md AL AMIN
 ### Aspiring Full Stack Developer | Exploring Next.js, TypeScript & Advanced Node.js  
 
 ---
